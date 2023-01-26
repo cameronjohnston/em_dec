@@ -2,8 +2,9 @@
 
 How to run:
 - install python. I used python 3.10.
-- pip install scipy and pandas. I used pandas 1.5.3 and scipy 1.10.0
-- run python gen_hourly_consumption.py
+- pip install scipy and pandas. I used pandas 1.5.3 and scipy 1.10.0.
+- save input json file as denmark_1day.json and gen_hourly_consumption.py from this repo, in the same directory.
+- run python gen_hourly_consumption.py.
 
 1. How did I solve the problem?
 
